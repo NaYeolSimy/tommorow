@@ -1,0 +1,10 @@
+p {
+  color: blue;
+  display: block;
+  text-transform: lowercase;
+}
+
+* {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+@import './base/fonts';
